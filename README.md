@@ -211,7 +211,7 @@ p.note { display: none; }
 <a href="20260620_124.JPG" target="_blank"><img src="20260620_124.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260620_125.JPG" target="_blank"><img src="20260620_125.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">大物選択があったので市内のコインランドリー</span></h2>
+<h2><span class="yellow">大物洗濯があったので市内のコインランドリー</span></h2>
 <a href="20260620_126.JPG" target="_blank"><img src="20260620_126.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">洗濯中は横の公園を散策</span></h2>
