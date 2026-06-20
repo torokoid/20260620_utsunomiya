@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">養老孟司さんの著のAIの本、こちらは技術内容と人や自然を比較した内容</span></h2>
 <a href="20260620_103.JPG" target="_blank"><img src="20260620_103.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">棚の左端には、ベストセラー「バカの壁」もありました</span></h2>
+<h2><span class="yellow">棚の左端には、ベストセラー「バカの壁」もありました<br>最近「人生の壁」、「老い方、死に方」と読み進み「超バカの壁」と読破中<br>特に「人生の壁」は技術書で凝り固まった頭をとろとろに溶かし切ってくれました</span></h2>
 <a href="20260620_104.JPG" target="_blank"><img src="20260620_104.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ここからは夕方の庭の薔薇達</span></h2>
